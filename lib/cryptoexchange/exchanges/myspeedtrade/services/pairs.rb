@@ -3,9 +3,8 @@ module Cryptoexchange::Exchanges
     module Services
       class Pairs < Cryptoexchange::Services::Pairs
         PAIRS_URL = "#{Cryptoexchange::Exchanges::Myspeedtrade::Market::API_URL}/markets"
-require 'byebug'
+
         def fetch
-          byebug
           output = super
           market_pairs = []
           output.each do |pair|
