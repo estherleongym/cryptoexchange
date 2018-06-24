@@ -94,6 +94,7 @@ Or install it yourself as:
 | CoinsMarkets      | Y       |            |         |         | Y           |
 | Coinsuper         | Y       |            |         |         | Y           |
 | Coinstock         | Y       | Y          | Y       |         | Y           |
+| Cointiger         | Y       | Y          | Y       |         | Y           |
 | Coinut            | Y       | Y          | Y       | Y       | Y           |
 | COSS              | Y       |            |         |         | Y           |
 | Cpdax             | Y       |            |         |         | Y           |
@@ -115,6 +116,7 @@ Or install it yourself as:
 | Extstock          | Y       | Y          | Y       |         | Y           |
 | Exx               | Y       | Y          | Y       |         | Y           |
 | F1cx              | Y       | Y          | Y       |         | Y           |
+| Fcoin             | Y       | Y          | Y       |         | Y           |
 | Fex               | Y       | N          | N       |         | Y           |
 | Fisco             | Y       | Y          | Y       |         | Y           |
 | Forkdelta         | Y       | N          | N       |         | Y           |
@@ -135,6 +137,7 @@ Or install it yourself as:
 | InfinityCoin      | Y       |            |         |         | Y           |
 | Itbit             | Y       | Y          | Y       |         | User-Defined|
 | Jex               | Y       | N          | N       |         | Y           |
+| Joyso             | Y       | Y          |         |         | Y           |
 | Jubi              | Y       |            |         |         | Y           |
 | KKex              | Y       | Y          | Y       |         | Y           |
 | Kkcoin            | Y       | Y          | Y       |         | Y           |
@@ -160,6 +163,7 @@ Or install it yourself as:
 | Nanex             | Y       | N          | N       | N       | Y           |
 | Nebula            | Y       | N          | Y       |         | Y           |
 | Neraex            | Y       | Y          | Y       |         | Y           |
+| Ninecoin          | Y       |            |         |         | Y           |
 | NLexch            | Y       |            |         |         | Y           |
 | Novadex           | Y       | N          | N       |         | Y           |
 | Nova Exchange     | Y       |            |         |         | Y           |
@@ -169,6 +173,7 @@ Or install it yourself as:
 | OKEx              | Y       | Y          | Y       |         | Y           |
 | Ooobtc            | Y       | Y          | Y       |         | Y           |
 | Openledger        | Y       | Y          | Y       |         | Y           |
+| OrderBook         | Y       | Y          | Y       |         | Y           |
 | Ore Bz            | Y       | Y          | Y       |         | Y           |
 | Paribu            | Y       |            |         |         | Y           |
 | Paymium           | Y       | Y          | Y       |         | User-Defined|
@@ -178,6 +183,7 @@ Or install it yourself as:
 | Quoine            | Y       |            |         |         | Y           |
 | RadarRelay        | Y       |            |         |         | User-Defined|
 | RightBTC          | Y       | Y          | Y       |         | Y           |
+| SafeTrade         | Y       | N          | N       |         | Y           |
 | Sigen             | Y       |            |         |         | Y           |
 | Simex             | Y       | N          | N       |         | Y           |
 | Singularx         | Y       | N          | N       |         | Y           |
@@ -189,6 +195,7 @@ Or install it yourself as:
 | The Rock Trading  | Y       |            |         |         | Y           |
 | The Token Store   | Y       | Y          | Y       |         | Y           |
 | Tidex             | Y       |            |         |         | Y           |
+| Tokenjar          | Y       |            |         |         | Y           |
 | Topbtc            | Y       | N          | N       |         | Y           |
 | TradeOgre         | Y       | Y          | Y       |         | Y           |
 | Trade Satoshi     | Y       |            |         |         | Y           |
