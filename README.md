@@ -211,6 +211,7 @@ Or install it yourself as:
 | OrderBook         | Y       | Y          | Y       |         | Y           | Y        | orderbook         |
 | Ore Bz            | Y       | Y          | Y       |         | Y           | Y        | ore_bz            |
 | OTCBTC            | Y       | Y          | Y       |         | Y           |          | otcbtc            |
+| P2PB2B            | Y       |            |         |         | Y           |          | p2pb2b            |
 | Paribu            | Y       |            |         |         | Y           |          | paribu            |
 | Paro Exchange     | Y       |            |         |         | Y           |          | paroexchange      |
 | Paymium           | Y       | Y          | Y       |         | User-Defined|          | paymium           |
